@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+Sitemap: http://agencegloop.fr/sitemap.xml
+Sitemap: https://agencegloop.fr/sitemaps.xml
+
