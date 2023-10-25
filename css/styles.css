@@ -337,7 +337,6 @@ h1 {
 
 @media (max-width: 768px) {
     .header__about--wrapper {
-        height: 72vh;
     }
 }
 
